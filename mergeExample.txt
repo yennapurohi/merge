@@ -1,3 +1,5 @@
 let's commit this merge file 
 
 adding second commit
+
+third commit
